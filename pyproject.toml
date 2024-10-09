@@ -1,0 +1,12 @@
+[project]
+name = "pycommunity-ai"
+version = "0.0.1"
+authors = [
+  { name="trollmii", email="trollmii@outlook.de" },
+]
+description = "AI for all, all for AI"
+requires-python = ">=3.8"
+classifiers = [
+    
+]
+license.file = "./LICENSE"
